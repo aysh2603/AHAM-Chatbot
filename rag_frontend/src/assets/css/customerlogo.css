@@ -1,0 +1,67 @@
+.agile-aapt {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.2rem;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  height:50px;
+}
+
+.agile-circle {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: space-between;
+
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  height:55px;
+}
+
+.logo {
+  display: flex;
+  align-items: flex-start;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+.logo img{
+  object-fit: cover;
+  object-position: center;
+ border-radius: 50%;
+ width: 80px;
+  height: 50px;
+}
+
+.agile {
+  color: #007bff;
+}
+
+.apt {
+  color: #f87100;
+}
+
+.tagline {
+  font-size: 0.7rem;
+  color: #777;
+}
+
+.circle {
+   
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  background-color: #f87100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.letter {
+  font-family: "roboto";
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: white;
+}

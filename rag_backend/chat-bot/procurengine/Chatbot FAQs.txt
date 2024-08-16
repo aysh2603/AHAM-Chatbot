@@ -1,0 +1,113 @@
+Q. Wrong Credentials
+--> Please go to forget password --> enter your registered email --> click on submit. A new password will be sent to your registered email id. Try to login with the new password. If forget password is not working, then the issue is from your end. Please get it checked with your IT team. Your network firewall might blocking our site.
+
+Q. Account is locked
+--> Click on forget password button --> and enter your registered email --> New password will be sent to your registered mail.
+
+Q. How can I schedule a demo or request a personalized walkthrough of the product?
+--> To scheduled a demo, please register yourself by clicking on this link : https://procurengine.com/?demo=%22Y%22
+
+Q. Can procurengine integrate with our existing procurement systems?
+--> Yes, procurengine is made using Restful APIs, and it can integrate to your existing procurement system.
+
+Q. How to reopen quote if any supplier has entered wrong quote?
+--> First go to the manage open eRFQ --> enter the event ID --> go to reopen quotes. Select the supplier whose quotes you want to remove --> click on 'Open' button.
+
+Q. How to extend the deadline of the eRFQ?
+--> First go to the manage open eRFQ --> enter the event ID --> go to RFQ extension. Click on 'New Deadline' and select the new deadline --> click on 'Update' button.
+
+Q. How to re-invite the suppliers for fresh quote in RFQ?
+--> To re-invite the supplier for fresh quotes, first select the latest version of quote --> scroll to the bottom of comaparative analysis --> in front of suppliers' name, choose the suppliers you want to re-invite --> click on submit. If the RFQ is sealed bid, first you have to open the quotes, then follow the above instructions.
+
+Q. How to update the details of the RFQ after submitting?
+--> To update the details of the RFQ after submitting, first go to manage open eRFQ --> enter the RFQ ID. You will find all the fields of the RFQ to update. If any of the supplier has already quoted in the RFQ, then you cannot update few things in the RFQ. If you still want to update those details, first you have to reopen every quote of the suppliers.
+
+Q. How to forward the RFQ for approval?
+--> To forward the RFQ for approval, first go to RFQ comparative --> click on 'Commercial Approval' button at the top right of commercial comparision --> enter the remarks --> click on submit.
+
+Q. How to download all the attachments?
+--> First go to the RFQ Comparative --> click on 'Download' button. All the RFQ attachments will get downloaded in a zip folder.
+
+Q. How to clone a RFQ?
+--> To clone a RFQ, first go to RFQ configuration page --> click on the clone button at the top right --> search the RFQ you want to clone --> click on 'clone' button. Now, your RFQ is cloned and you need to modify some details.
+
+Q. How to surrogate any supplier in RFQ?
+--> To surrogate any supplier, first go to Manage Open eRFQ --> enter RFQ Id --> click on surrogate tab --> search for supplier you want to surrogate --> enter the details of the person you want to surrogate the RFQ to --> click on 'Surrogate RFQ'. A surrogate email will be sent.
+
+Q. Supplier has quoted wrong price in auction
+--> If any supplier has entered the wrong bid then just simply click on the cross icon in front of the supplier's name for that particular item.
+
+Q. Wants to add another supplier in auction
+--> Go to manage open bid and then enter the event ID. Then go to add supplier and then search for the supplier you want to add. After that just click on 'Invite Vendor' button.
+
+Q. How to extend the time of auction?
+--> To extend the time of the auction, first go to the running auction's page --> on the top of the screen --> click on the '+' button as many times as the number of minutes you want to increase --> click on 'Go' button.
+
+Q. How to download the excel template of auction items?
+--> To download the excel template, first go to add item tab --> click on the excel upload button --> download template data. Excel file will automatically gets downloaded.
+
+Q. How to add multiple attachments in auction?
+--> You can only add one additional attachment apart from Terms and Conditions file while configurating the auction.
+
+Q. How to clone an auction?
+--> To clone an auction, first go to auction configuration page --> click on the clone button at the top right --> search the auction you want to clone --> click on 'clone' button. Now, your auction is cloned and you need to modify some details.
+
+Q. How to surrogate any supplier in auction?
+--> To surrogate any supplier, first go to Manage Open Bids --> enter auction Id --> click on surrogate tab --> search for supplier you want to surrogate --> enter the details of the person you want to surrogate the auction to --> click on 'Surrogate bid'. A surrogate email will be sent.
+
+Q. How to surrogate any supplier in auction?
+--> To surrogate any supplier, first go to Manage Open Bids --> enter auction Id --> click on surrogate tab --> search for supplier you want to surrogate --> enter the details of the person you want to surrogate the auction to --> click on 'Surrogate bid'. A surrogate email will be sent.
+
+Q. How to forward the auction for approval?
+--> To forward the auction for approval, first click on the event under Pending Activities (left-hand side in the dashboard) --> scroll to the bottom --> enter the remarks --> click on submit.
+
+Q. Unable to validate GST.
+--> If you are unable to validate the GST number, then please enter all the details manually by selecting the Tax Id type as 'Unregistered'. This usually happens when the government's gst site is down.
+
+Q. How to inactive any supplier ?
+--> To inactive the supplier, first go to the register participant page and then search the supplier. Then click on edit and then again click on the edit. Now, uncheck the Active checkbox and just simply click on 'Submit' button.
+
+Q. How to register different GST on same email ID ?
+--> To register another GST on the same email Id, first enter the email Id --> click on proceed --> under company details, click on add another --> enter all the details --> click on submit.
+
+Q. Not able to move to the second page while configurating NFA
+--> First click on the 'search' icon in front of the 'Purchase Group' field and then sync the input fields as per the approver matrix table. Then just click on 'Save and Continue' button.
+
+Q. How to add questions in the NFA?
+--> In NFA Question Master, you can add the questions by just simply selecting the purchase org and then by mapping the questions against them.
+
+Q. How to change the approver matrices ?
+--> To change the approver matrices, First go to NFA approver master --> click on 'view all matrix' button --> search the matrix you want to edit --> click on edit icon --> click on 'save and continue' button --> change the approver sequence --> click on 'Preview' button --> click on 'Submit' button. NOTE: If you change the approver sequence, then it will not affect the existing/running NFAs.
+
+Q. Can we re-initiate the cancelled NFA?
+--> It is not possible to re-initiate the cancelled NFA. You have to create a new NFA.
+
+Q. I want to connect to sales team
+--> Kindly provide your phone number and our sales representative will get in touch with you or you may contact on this number '+91 7042259500 '
+
+Q. What is the pricing model?
+--> Kindly provide your phone number and our sales representative will get in touch with you or you may contact on this number '+91 7042259500 '
+
+Q. Sales team
+--> Kindly provide your phone number and our sales representative will get in touch with you or you may contact on this number '+91 7042259500 '
+
+Q. Connect me to sales team
+--> Kindly provide your phone number and our sales representative will get in touch with you or you may contact on this number '+91 7042259500 '
+
+Q. can I get in touch with your sales team
+--> Kindly provide your phone number and our sales representative will get in touch with you or you may contact on this number '+91 7042259500 '
+
+Q. Forget Password
+--> Click on forget password button --> enter your registered email --> New password will be sent to your registered mail.
+
+Q. Invalid User/ Username does not exist.
+--> Either your account is inactive or does not exist. Please contact your admin to make you active or register you.
+
+Q. login issue
+--> Please go to forget password --> enter your registered email --> click on submit. A new password will be sent to your registered email id. Try to login with the new password. If forget password is not working, then the issue is from your end. Please get it checked with your IT team. Your network firewall might blocking our site.
+
+Q. unable to find the rfq
+--> To see the open RFQ, click on Open eRFX, a list of all the open RFQs will be displayed. If you still encounter issues, please let me know!
+
+Q. email update
+--> If you want to update your email Id, that right is only with the admin. Please contact your admin and ask them to update your email Id from Register User. To update the email Id of the vendor, please ask the vendor to write a formal mail to support@agileapt.com, mentioning the reason to change the email Id.

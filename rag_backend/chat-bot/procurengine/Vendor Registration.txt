@@ -1,0 +1,32 @@
+Steps for Supplier/Vendor registration-
+
+Method 1-
+1. You will see this dashboard upon logging in. On the left side of the page, expand the black panel by clicking on 4 parallel lines, click Manage, and then select Register Participants.
+2. Enter the supplier’s email and click on proceed.
+3. Fill in all the necessary details that are marked as mandatory- Contact & Company Details.
+4. Enter the GST Number and then click on the right-side icon to verify the GST.
+5. Once GST number is verified from the government website, you get a pop-up with confirmation. Click Ok.
+6. With the verification, most company details get filled automatically.
+7. In case, the supplier doesn’t have GST, you can select the option of ‘Unregistered’ from the tax type drop down and enter the company details manually.
+8. Fill in the pending details. Tag the supplier in the relevant Item/Service. You can Tag a supplier in more than one Item/Service as well.
+9. Once all the details are filled, click on submit. Your supplier will get registered.
+
+Method 2-
+10. You can also invite the suppliers to register themselves on the platform.
+11. Click on the invite button.
+12. Please enter the email ID and click on '+' button to add. You can add multiple email IDs at once and click on the Invite Vendor tab.
+13. You can also invite the suppliers to register themselves on the platform.
+14. Click on the invite button.
+15. All the approved suppliers get registered and are added in the approved vendors list.
+16. Once the supplier submits his information. You will get the option to Approve or Reject him in the Park Vendors tab.
+17. You can search your registered suppliers in the Approved Vendors search bar.
+18. Click on the expand button to view or edit the details. You can add additional information in the 4 tabs as shown.
+
+
+In case the supplier email ID is already registered in procurEngine. The below window opens up.
+ 1) In case the company details match your requirement, you can click on Ext Edit, tag the supplier
+ in relevant Item/service, and submit. The supplier will be extended to you.
+ 2) In the second scenario – In case the company details do not match your requirement, you can 
+click on add another, add the company details and click submit.
+To delete a supplier from your vendor list, uncheck the active button.
+Expand the company name and click on submit. The supplier will be removed from your vendor list.

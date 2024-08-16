@@ -1,0 +1,526 @@
+
+.newCircle {
+   
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: #f87100;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+  }
+  .newLetter {
+    font-family: "roboto";
+    font-size: 6.8rem;
+    font-weight: bold;
+    color: white;
+  }
+
+  .baseDetail{
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    width: 12.5rem;
+  }
+  .newCamera{
+    display: flex;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #218cde;
+    justify-content: center;
+    align-items: center;
+    top: 115px;
+    left: 135px;
+    color: white;
+    font-weight: 600;
+    font-family: "roboto";
+}
+.userName{
+    font-size: 20px;
+    font-family: "roboto";
+    font-weight: 600;
+}
+.dial{
+  margin-left: 7.8rem;
+}
+input#phoneNumber{
+  width: 65%;
+}
+.phone{
+  width: 60% !important;
+}
+.timezone{
+  width: 60%;
+}
+@media screen and (max-width: 414px) {
+  .dial {
+    margin-left: 5rem;
+  }
+  input#phoneNumber {
+    width: 65%;
+    padding-left: 4.7rem;
+  }
+  .phone {
+    width: 83% !important;
+  }
+  .timezone {
+    width: 83%;
+  }
+  .newCircle {
+    width: 80px;
+    height: 80px;
+  }
+  .newLetter {
+    font-size: 3.8rem;
+  }
+  .baseDetail {
+    width: 6.5rem;
+  }
+  .newCamera {
+    top: 45px;
+    left: 70px;
+  }
+  .userName {
+    font-size: 14px;
+  }
+}
+/* 1920×1080 */
+@media screen and (min-width: 1920px) {
+  .dial {
+    margin-left: 3.7rem; /* Adjust margin as needed */
+  }
+  input#phoneNumber {
+    width: 65%; /* Adjust/* Adjust padding as needed */
+  }
+  .phone {
+    width: 68% !important; /* Adjust width as needed */
+  }
+  .timezone {
+    width: 60%; /* Adjust width as needed */
+  }
+}
+
+/* 360×800 */
+@media screen and (max-width: 360px) and (min-height: 800px) {
+  /* Adjust styles for this screen size */
+}
+
+/* 1366×768 */
+@media screen and (min-width: 1366px) and (max-width: 1920px) and (min-height: 768px) {
+  .dial {
+    margin-left: 7.8rem; /* Adjust margin as needed */
+  }
+  input#phoneNumber {
+    width: 65%; /* Adjust  /* Adjust padding as needed */
+  }
+  .phone {
+    width: 60% !important; /* Adjust width as needed */
+  }
+  .timezone {
+    width: 60%; /* Adjust width as needed */
+  }
+}
+
+/* 1536×864 */
+@media screen and (min-width: 1536px) and (max-width: 1920px) and (min-height: 864px) {
+  .dial {
+    margin-left: 10.8rem; /* Adjust margin as needed */
+  }
+  input#phoneNumber {
+    width: 65%; /* Adjust /* Adjust padding as needed */
+  }
+  .phone {
+    width: 60% !important; /* Adjust width as needed */
+  }
+  .timezone {
+    width: 60%; /* Adjust width as needed */
+  }
+}
+
+/* 390×844 */
+@media screen and (max-width: 390px) and (min-height: 844px) {
+  .dial {
+    margin-left: 7.8rem; /* Adjust margin as needed */
+  }
+  input#phoneNumber {
+    width: 65%; /* Adjust width as needed */
+    /* Adjust padding as needed */
+  }
+  .phone {
+    width: 60% !important; /* Adjust width as needed */
+  }
+  .timezone {
+    width: 60%; /* Adjust width as needed */
+  }
+}
+
+/* 414×896 */
+@media screen and (max-width: 414px) and (min-height: 896px) {
+  .dial {
+    margin-left: 7.8rem; /* Adjust margin as needed */
+  }
+  input#phoneNumber {
+    width: 65%; /* Adjust width as needed */
+    /* Adjust padding as needed */
+  }
+  .phone {
+    width: 60% !important; /* Adjust width as needed */
+  }
+  .timezone {
+    width: 60%; /* Adjust width as needed */
+  }
+}
+
+/* 412×915 */
+@media screen and (max-width: 412px) and (min-height: 915px) {
+  .dial {
+    margin-left: 7.8rem; /* Adjust margin as needed */
+  }
+  input#phoneNumber {
+    width: 65%; /* Adjust width as needed */
+    /* Adjust padding as needed */
+  }
+  .phone {
+    width: 60% !important; /* Adjust width as needed */
+  }
+  .timezone {
+    width: 60%; /* Adjust width as needed */
+  }
+}
+
+/* 393×873 */
+@media screen and (max-width: 393px) and (min-height: 873px) {
+  .dial {
+    margin-left: 7.8rem; /* Adjust margin as needed */
+  }
+  input#phoneNumber {
+    width: 65%; /* Adjust width as needed */
+    /* Adjust padding as needed */
+  }
+  .phone {
+    width: 60% !important; /* Adjust width as needed */
+  }
+  .timezone {
+    width: 60%; /* Adjust width as needed */
+  }
+}
+
+/* 1280×720 */
+@media screen and (min-width: 1280px) and (max-width: 1920px) and (min-height: 720px) {
+  .dial {
+    margin-left: 7.8rem; /* Adjust margin as needed */
+  }
+  input#phoneNumber {
+    width: 65%; /* Adjust width as needed */
+    /* Adjust padding as needed */
+  }
+  .phone {
+    width: 60% !important; /* Adjust width as needed */
+  }
+  .timezone {
+    width: 60%; /* Adjust width as needed */
+  }
+}
+
+/* 360×780 */
+@media screen and (max-width: 360px) and (min-height: 780px) {
+  .dial {
+    margin-left: 7.8rem; /* Adjust margin as needed */
+  }
+  input#phoneNumber {
+    width: 65%; /* Adjust width as needed */
+    /* Adjust padding as needed */
+  }
+  .phone {
+    width: 60% !important; /* Adjust width as needed */
+  }
+  .timezone {
+    width: 60%; /* Adjust width as needed */
+  }
+}
+
+/* 360×640 */
+@media screen and (max-width: 360px) and (min-height: 640px) {
+  .dial {
+    margin-left: 7.8rem; /* Adjust margin as needed */
+  }
+  input#phoneNumber {
+    width: 65%; /* Adjust width as needed */
+    /* Adjust padding as needed */
+  }
+  .phone {
+    width: 60% !important; /* Adjust width as needed */
+  }
+  .timezone {
+    width: 60%; /* Adjust width as needed */
+  }
+}
+
+/* 1440×900 */
+@media screen and (min-width: 1440px) and (max-width: 1920px) and (min-height: 900px) {
+  .dial {
+    margin-left: 10.8rem; /* Adjust margin as needed */
+  }
+  input#phoneNumber {
+    width: 65%; /* Adjust width as needed */
+    /* Adjust padding as needed */
+  }
+  .phone {
+    width: 60% !important; /* Adjust width as needed */
+  }
+  .timezone {
+    width: 60%; /* Adjust width as needed */
+  }
+}
+
+/* 375×812 */
+@media screen and (max-width: 375px) and (min-height: 812px) {
+  .dial {
+    margin-left: 7.8rem; /* Adjust margin as needed */
+  }
+  input#phoneNumber {
+    width: 65%; /* Adjust width as needed */
+    /* Adjust padding as needed */
+  }
+  .phone {
+    width: 60% !important; /* Adjust width as needed */
+  }
+  .timezone {
+    width: 60%; /* Adjust width as needed */
+  }
+}
+
+/* 1600×900 */
+@media screen and (min-width: 1600px) and (max-width: 1920px) and (min-height: 900px) {
+  .dial {
+    margin-left: 10.8rem; /* Adjust margin as needed */
+  }
+  input#phoneNumber {
+    width: 65%; /* Adjust widt /* Adjust padding as needed */
+  }
+  .phone {
+    width: 60% !important; /* Adjust width as needed */
+  }
+  .timezone {
+    width: 60%; /* Adjust width as needed */
+  }
+}
+
+/* 2560×1440 */
+@media screen and (min-width: 2560px) {
+  .dial {
+    margin-left: 10.8rem; /* Adjust margin as needed */
+  }
+  input#phoneNumber {
+    width: 65%; /* Adjust width as needed */
+    /* Adjust padding as needed */
+  }
+  .phone {
+    width: 60% !important; /* Adjust width as needed */
+  }
+  .timezone {
+    width: 60%; /* Adjust width as needed */
+  }
+}
+
+/* 810×1080 */
+@media screen and (max-width: 810px) and (min-height: 1080px) {
+  .dial {
+    margin-left: 104px; /* Adjust margin as needed */
+  }
+  input#phoneNumber {
+    width: 65%; 
+
+  }
+  .phone {
+    width: 70% !important; /* Adjust width as needed */
+  }
+  .timezone {
+    width: 75%; /* Adjust width as needed */
+  }
+  
+  .phoneField{
+    padding-left: 4.8rem;
+  }
+}
+/* 1024px width */
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+  .dial {
+    margin-left: 104px; /* Adjust margin as needed */
+  }
+  input#phoneNumber {
+    width: 65%; 
+
+  }
+  .phone {
+    width: 70% !important; /* Adjust width as needed */
+  }
+  .timezone {
+    width: 75%; /* Adjust width as needed */
+  }
+  
+  .phoneField{
+    padding-left: 4.8rem;
+  }
+}
+@media screen and (min-width: 1150px) and (max-width: 1050px) {
+  .dial {
+    margin-left: 81px; /* Adjust margin as needed */
+  }
+  input#phoneNumber {
+    width: 65%; 
+
+  }
+  .phone {
+    width: 80% !important; /* Adjust width as needed */
+  }
+  .timezone { 
+    width: 83%; /* Adjust width as needed */
+  }
+  
+  .phoneField{
+    padding-left: 4.8rem;
+  }
+}
+/* 1024px width */
+@media screen and (min-width: 728px) and (max-width: 1024px) {
+  .dial {
+    margin-left: 21px; /* Adjust margin as needed */
+  }
+  input#phoneNumber {
+    width: 65%; 
+
+  }
+  .phone {
+    width: 83% !important; /* Adjust width as needed */
+  }
+  .timezone {
+    width: 89%; /* Adjust width as needed */
+  }
+  
+  .phoneField{
+    padding-left: 1.8rem;
+  }
+}
+@media screen and (min-width: 1024px) and (max-width: 1440px) {
+  .dial {
+    margin-left: 40px; /* Adjust margin as needed */
+  }
+  input#phoneNumber {
+    width: 65%; /* Adjust width as needed */
+  }
+  .phone {
+    width: 65% !important; /* Adjust width as needed */
+  }
+  .timezone {
+    width: 76.5%; /* Adjust width as needed */
+  }
+  .phoneField{
+    padding-left: 2.8rem; 
+   }
+}
+@media screen and (min-width: 1024px) and (max-width: 1350px) {
+  .dial {
+    margin-left: 35px; /* Adjust margin as needed */
+  }
+  input#phoneNumber {
+    width: 65%; /* Adjust /* Adjust padding as needed */
+  }
+  .phone {
+    width: 82% !important; /* Adjust width as needed */
+  }
+  .timezone {
+    width: 72%; /* Adjust width as needed */
+  }
+  .phoneField{
+    padding-left: 2.8rem;
+   }
+}
+@media screen and (min-width: 1024px) and (max-width: 1250px) {
+  .dial {
+    margin-left: 32px; /* Adjust margin as needed */
+  }
+  input#phoneNumber {
+    width: 65%; 
+
+  }
+  .phone {
+    width: 72% !important; /* Adjust width as needed */
+  }
+  .timezone {
+    width: 81%; /* Adjust width as needed */
+  }
+  
+  .phoneField{
+    padding-left: 2rem;
+  }
+}
+@media screen and (min-width: 1850px) and (max-width: 1920px) {
+  .dial {
+    margin-left: 3.7rem; /* Adjust margin as needed */
+  }
+  input#phoneNumber {
+    width: 65%; /* Adjust width as needed */
+  }
+  .phone {
+    width: 63% !important; /* Adjust width as needed */
+  }
+  .timezone {
+    width: 75%; /* Adjust width as needed */
+  }
+ .phoneField{
+  padding-left: 3.8rem;
+ }
+}
+@media screen and (min-width: 1650px) and (max-width: 1850px) {
+  .dial {
+    margin-left: 3.5rem; /* Adjust margin as needed */
+  }
+  input#phoneNumber {
+    width: 65%; /* Adjust * Adjust padding as needed */
+  }
+  .phone {
+    width: 63% !important; /* Adjust width as needed */
+  }
+  .timezone {
+    width: 75%; /* Adjust width as needed */
+  }
+  .phoneField{
+    padding-left: 3.8rem; 
+   }
+}
+@media screen and (min-width: 1450px) and (max-width: 1650px) {
+  .dial {
+    margin-left: 2.8rem; /* Adjust margin as needed */
+  }
+  input#phoneNumber {
+    width: 65%; /* Adjust width as needed */
+  }
+  .phone {
+    width: 63% !important; /* Adjust width as needed */
+  }
+  .timezone {
+    width: 75%; /* Adjust width as needed */
+  }
+  .newCircle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
+  .newLetter {
+    font-size: 4.8rem;
+  }
+  .baseDetail {
+    width: 8.5rem;
+  }
+  .newCamera {
+    top: 65px;
+    left: 90px;
+  }
+  .userName {
+    font-size: 16px;
+  }
+  .phoneField{
+    padding-left: 2.9rem;
+   }
+}

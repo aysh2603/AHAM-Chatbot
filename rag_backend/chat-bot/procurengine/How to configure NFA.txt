@@ -1,0 +1,21 @@
+Steps to configure NFA-
+
+1. Once you login, this is how dashboard is going to look like. On the left side you will find configuration tab, click on that and select the NFA request.
+2. This page will appear to configure NFA. In event type drop down you will have multiple options to select the nature of NFA, either is it Outside NFA, Request for quotation, Reverse or Forward Auction.
+3. In the Event type you may select Request for Quotation if the RFQ was conducted through Procurengine itself, or outside NFA in case Procurengine was not involved in quotation. Select RFQ or Auction number/subject on right side. In this case RFQ subject details will automatically will be fetched by the system.
+4. Once RFQ or auction is selected, you will have an option to define the amount and the budget for NFA and on the basis of that the Budget status will change to either within budget or outside budget. Once the budget is selected, you select Project name along with that Purchase Organization and Purchase group in the drop down list.
+5. User have the option to select multiple reason in exception drop down and also to add additional remarks.
+6. You can define pre-populated questions or any additional queries if required. All the questions are mandatory to be answered.
+7. At the last step you can see the hierarchy as to who are the approvers for selected NFA. Once all the details are filled click on submit.
+8. Once NFA is submitted, a unique number is generated and first level of approver will be able to see the NFA activated on left side in Pending Activities.
+9. First level of approver can see the NFA details like this with the selected RFQ details. Approver have the option to select action as approved or reject.
+10. Different level of approver can view the NFA details along with the comments from various approvers. Approver also have the option to raise a query in case there are certain queries that need to be address. Type your query and click + button and them Submit Query.
+11. You can view the reports through NFA summary on left side of the dashboard.
+12. This is how NFA summary will look like, on the right side you will find NFA ID along with the status.
+13. At last you can view NFA summary like this along with the comments, queries or RFQ details.
+
+
+
+
+
+

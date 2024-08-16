@@ -1,0 +1,17 @@
+Technical Approval-
+
+1. Under Pending Activities, the technical approver will find the RFQ for technical approval. Click on the RFQ.
+2. If the technical requirements meets, click on Yes else no. Then enter your remarks and click on submit. Also, If you have any query, 
+Click on Query/Response button to ask your query. 
+3. Once you click on raise query, the communication hub will open and you can ask your query here.
+4. Select the User/Vendor, type your query and click on submit.
+
+Commercial Approval-
+
+1. First the creator of the RFQ will sent the RFQ for commercial approval by clicking on Commercial Approval button.
+2. Under Pending Activities, the commercial approver will find the RFQ for commercial approval. Click on the RFQ.
+3. Select the action for the approval.
+4. Once you select the action, enter the remarks and then click on submit button.
+5. Same in case of auctions, under Pending Activities, the commercial approver will find the auction for commercial approval. Click on the auction.
+6. Select the action for the approval.
+7. Once you select the action, enter the remarks and then click on submit button.

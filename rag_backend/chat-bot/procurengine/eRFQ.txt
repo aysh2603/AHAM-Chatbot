@@ -1,0 +1,36 @@
+Steps to configure Digital RFQ / eRFQ configuration-
+
+1. On the left side of the page, expand the black panel by clicking on 4 parallel lines, click Configuration, and then select Request for Quotation.
+2. Once all the details are filled, type the approver name and click + button And then press ”Save and Continue”.
+3. Please fill all the mandatory details highlighted in * and press ”Add” to create item wise table below.
+4. If you have many line items, you may upload your upload the details using Excel Upload option. The required excel template can also be downloaded from the same tab.
+5. The template looks like this, Yellow color highlighted fields are non-mandatory fields, and the rest are mandatory.
+6. Once all the line items are added directly or using an Excel Upload, the table will appear below. Please check all the line items are visible in the table. If everything is okay, please press “Save and Continue” button.
+7. In the next tab, you will have the option to select (or unselect) the commercial terms, which may be relevant for that particular RFQ from the library. In case any term is not there, please press 'Add Another' button to add commercial term as per your requirement. You can also add your desired answer in the right hand side box for a guided reply.
+8. You also have the option to add multiple attachments to be sent to the suppliers. Also, you may ask specific question or ask for desired attachments in the Questions’ Section Once all the required details are filled click on “Save and Continue”.
+9. The last Tab. Select suppliers by category or by name. The suppliers names will come on the left tab. Please select names of the suppliers you want to send the eRFQ by checking box.
+10. The selected suppliers will be visible on the right hand side panel. Once suppliers are selected click on “Preview” to check all the details before submitting the RFQ.
+11. Check all the RFQ details in the priview. If everything is okay, press “Submit”.
+
+How to Register Supplier if not already registered-
+
+1. In-case if the vendor is not registered, go to the manage tab and click on Register Participants.
+2. To create the Supplier/Participants enter the GST number and then click to proceed.
+3. This is how the supplier registration form will look like, fill all the details, select the item/service category on the ride side of form and then click submit.
+
+Monitoring RFQ Progress-
+
+1. User can see the status of particular vendor as close and not started, here close status refer that vendor has given their price and not started refer that vendor have not login yet.
+2. User have will find the option as 1 Quote, 2nd Quote and final version.
+
+Checking and Downloading Comparative Statement-
+
+1. This is how the final comparative report look like. It will indicate line item wise L1 and overall package with Commercial Ranking L1, L2 etc. You can CS download excel or pdf also.
+
+
+
+
+
+
+
+
