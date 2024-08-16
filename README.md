@@ -44,7 +44,7 @@ https://github.com/user-attachments/assets/c4e12e53-6fd0-45d2-9cf8-bfec774b5910
 
 - Start the FAST API Server
 ```bash
-  uvicorn main:app --reload
+  uvicorn app2:app --reload
 ```
 
 4. Frontend Setup
