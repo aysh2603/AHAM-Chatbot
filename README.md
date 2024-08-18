@@ -2,9 +2,6 @@
 
 This repository contains the code for a Retrieval-Augmented Generation (RAG) Chatbot Application. The application leverages a combination of React, FAST API, ChromaDB, and Langchain to provide a seamless and interactive chat experience, augmented with knowledge retrieval capabilities.
 
-## Demo
-https://github.com/user-attachments/assets/c4e12e53-6fd0-45d2-9cf8-bfec774b5910
-
 ## Features
 
 - **Retrieval-Augmented Generation (RAG):** The chat application combines the power of retrieval-based models and generative models to provide accurate and context-aware responses.
