@@ -43,7 +43,6 @@ const ChatbotFullScreen = () => {
     { label: 'Coding Profiles', message: 'Show me about Aayush\'s coding profiles?' },
     { label: 'Achievements', message: 'What are Aayush\'s achievements?' },
   ];
-  
   useEffect(() => {
     sessionStorage.setItem('chatMessages', JSON.stringify(messages));
     if (lastMessageRef.current) {
@@ -63,7 +62,7 @@ const ChatbotFullScreen = () => {
 
     setMessages([...messages, { text: input, sender: 'user' }]);
     setIsTyping(true); // Show typing indicator
-    
+
     const data = { input };
 
     try {
