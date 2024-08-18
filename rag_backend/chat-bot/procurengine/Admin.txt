@@ -1,0 +1,33 @@
+Master Data rights for Admin
+
+Steps for Purchase Organisation- 
+
+1. On the left side of the page, expand the black panel by clicking on 4 parallel lines, click Master Data.
+2. Click on Purchase Org to add Organization.
+3. Enter the name of the organisation and click on save. Also make sure the IsActivecheckbox is always tick.
+
+Steps for Purchase Group-
+
+1. On the left side of the page, expand the black panel by clicking on 4 parallel lines, click Master Data.
+2. Click on Purchase Group to add Group.
+3.  First select the organisation for which you want to make a group. Then enter the name of the group and click on save. Also make sure the IsActivecheckbox is always tick.
+
+Steps for Map Role/Menu-
+1. On the left side of the page, expand the black panel by clicking on 4 parallel lines, click Master Data.
+2. Click on Map Role/Menu to map the roles.
+3. First enter the role name and then click on add. You can also click on the action icon and then edit the role’s name.
+4. Then click on Save and Continue to proceed further.
+5. Select the role from the dropdown.
+6.  Select all the menu items you want to give to the selected role.
+
+Steps for Items/Services Master and UOM Master-
+1. On the left side of the page, expand the black panel by clicking on 4 parallel lines, click Master Data.
+2. Click on Items/Services Master to add Item Tags and click on UOM Master to add units of measurement.
+3. Enter the name of the Item/Service and click on submit. Also make sure the IsActivecheckbox is always tick.
+4. Enter the unit of measurement in UOM and enter it’s UOM ID and click on submit. Also make sure the IsActivecheckbox is always tick.
+
+Steps for Reports-
+1. On the left side of the page, expand the black panel by clicking on 4 parallel lines, click Reports.
+2. Click on the report you want to see.
+3. Select the user whose events you want to see. Also, there is an option ‘All’ to see report of every event.
+4.  Once you click on submit, the list of all the events will be shown below.

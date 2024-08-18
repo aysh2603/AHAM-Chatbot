@@ -1,0 +1,108 @@
+General Rules
+
+General Rules of Reverse-Auctions:
+1. Your participation in the Reverse-Auction is your deemed acceptance to the General Rules of
+the Reverse Auction, Special Conditions of Contract, LD clause, General and Commercial
+Terms attached/mentioned in the e-Auction. There are no deviations allowed.
+However, your customer reserves the right to accept specific deviations. Please contact your
+customer’s e-Auction administration (the person who has configured the e-Auction) to get
+email acceptance to your proposed deviation before the start of the Reverse Auction.
+2. The Bidding Currency is as mentioned in the e-Auction.
+3. This bidding is formal business negotiation process between the customer and the vendor.
+The bid of the bidder will be considered to be a formal offer to sell. The bidder is bound to
+sell the material as mentioned above at the price that they bid – irrespective to whether
+they are L1 or Not L1.
+4. The Reverse Auction will be conducted on the scheduled date and time mentioned in the
+Reverse Auction invitation email. Should there be any change in Reverse Auction schedule,
+the bidders will be formally notified for the same.
+5. Start or Ceiling Price: The e-Auction may have a line-item wise Start Price – which is the
+maximum acceptable price or the ceiling price of that item. If the Start Price is visible on the
+screen, the bidders can put their initial bid equal to or less than the indicated start price. In
+case Start Price is not disclosed, vendors can start bidding from price of their choice.
+6. During the e-Auction, the bidders can reduce their prices as many times as they wish. Bids
+once made by the bidder cannot be cancelled. Also, the bidders cannot quote higher price
+than their previously quoted bid.
+
+7. Bid Decrement Rules:
+
+•
+
+Auction Type – English: The minimum decrement is the minimum amount, by which the
+bidders have to compulsorily reduce price for their next bid from their own current bid. E.g.
+if a bidder has quoted Rs. 100 and bid decrement is Re 1, the next valid bid would be
+maximum Rs. 99. However, the bidder can quote any amount lower than Rs. 99. So in this
+example, Rs. 98, Rs. 98.50, Rs. 95, Rs. 98.90 are valid bids. However, Rs. 99.50 is not a valid
+bid (as it has not been reduced by minimum decrement of Re. 1)
+
+So, if Auction Type is English, the Bid Decrement is only calculated from your own bid not from the
+L1 bid (if displayed)
+
+General Rules
+•
+
+Auction Type – Japanese: The minimum decrement is the minimum amount, by which the
+bidders have to compulsorily reduce price for their next bid from ongoing lowest (L1) price.
+E.g. if a bidder has quoted Rs. 100 and bid decrement is Re 1 and current displayed L1 price
+is Rs. 98, the next valid bid would be maximum Rs. 97 (Current L1 – Bid Decrement = Rs. 98 –
+Re. 1). However, the bidder can quote any amount lower than Rs. 97. So in this example,
+Rs. 96, Rs. 96.50, Rs. 95, Rs. 95.90 are valid bids. However, Rs. 99 is not a valid bid (as it has
+not been reduced by minimum decrement of Re. 1 from the L1 price)
+
+So, if Auction Type is Japanese, the Bid Decrement is only calculated from the currently L1 bid.
+
+8. Price Quoted by other bidders: The system does not accept same price being quoted by two
+vendors. So, if you quote a price, which has been previously quoted by any other vendor, the
+system will not accept that bid. Please revise your price and re-submit your quote.
+
+9. In English Reverse Auction, The customer may choose to display or hide the ongoing L1 price
+(Live Lowest Bidded Price) any time during the bidding to all bidders for better participation.
+Please be attentive during the bidding. However, in Japanese Reverse Auction, it will always
+be displayed.
+
+10. The L1 rank will be displayed line item-wise.
+
+11. Your final rank will be L1, if you are L1 at the end of the Reverse Auction event. Please ensure
+you are logged in at the time of e-Auction finishing. However, being L1 may not ensure
+winner.
+
+12. At the end of the e-Auction, the customer will evaluate all the bids submitted and will decide
+upon the winner(s), if any. The customer may re-negotiate prices with bidders after eAuctions in case Reverse Auction results are not satisfactory.
+13. The customer is the final decision maker about the winner and reserves the rights to split the
+order between participants based on price competitiveness, past performance, availability
+and lead time for supply.
+
+14. The bid may extend based on certain system-driven bidding patterns. Please note that if
+there is any bid received in last one minute, the bid time will automatically get extended by 2
+minutes to give fair opportunity to all. Hence avoid quoting your best price at the last
+moment.
+
+General Rules
+15. Failure of power or loss of connectivity at the premises of bidders during the Reverse Auction
+cannot be the cause for not participating in the reverse auction. On account of this, the time
+for the e-Auction cannot be extended and the customer is not responsible for such
+eventualities.
+
+16. Bidders’ authorized person, who are participating are advised to get fully trained and clear all
+their doubts such as Quantity being auctioned, value being auctioned, UOM, delivery
+schedule etc.
+
+17. The customer reserves the rights to cancel/re-schedule/extend the Reverse Auction at any
+time, before placing the formal Purchase Order, without assigning any reason.
+
+18. The Bidder shall not divulge either his/her Bids or any other exclusive details to any other
+party, including other bidders in e-Auction or any other entity at any point – before, during
+or after the e-Auction.
+
+19. If the Bidder or any of his representatives are found to be involved in Price manipulation/
+cartel formation of any kind, directly or indirectly by communicating with other bidders, the
+customer reserves the right to blacklist the concerned bidder/s and / or cancel the eAuction.
+
+20. The e-Auction bidding is the process formal negotiation between buyer and seller as per
+rules set.
+
+End of Document
+
+Please contact with ProcurEngine Team at
++91 96507 49600 for any assistance
+
+

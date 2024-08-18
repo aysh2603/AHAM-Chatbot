@@ -1,0 +1,23 @@
+Steps to configure Reverse Auction(RA)-
+
+1. Click on Expand Auction icon on left panel of the, this panel would expand, and click on Reverse Auction.
+2. Click Configuration followed up by selecting REVERSE Auction Event.  This has three sections: 1. Bid Details 2. Setup Bid Parameters 3. Invite Participants
+3. Fill the fields as the name indicates. In case your bid is INR, the Currency Conversion Factor will be ‘1’. Attach Commercial Terms and Conditions like, taxes applicable, Inco Terms, Payment Terms, Delivery requirement (or service date/period in services). You can also attach any other document, which may be required for bidding like Technical Specifications etc. with the bid.
+4. Finally set the approvers of the REVERSE Auction in your organization, by clicking on their name and taking them to the right side box.
+5. Press Save and continue.
+6. Set up the bid parameters. Upon filling the data press ‘Add’ Button at the end of the section. You can add multiple items one by one each followed by pressing 'Add'. Here bid start price have the option to show or hide the start price, in-case if user select ‘Show’ then vendor have to quote from the start price given by user and if start price selected as ‘hide’ then vendor can quote from their own price. ‘Show L1 price Yes or No’ in this case user have the option show L1 price to vendors.
+7. You may modify each line by pressing ‘modify icon’ or edit pen on the left-hand side panel. Prese Save and Continue.
+8. Select vendors for this bid. The selected vendors will appears on the right side box. You may modify/delete the vendors for this bid, if required. Press Preview.
+9. Preview complete bid and scroll down.
+10. If everything is okay. Please press submit. At this stage Notification will go to the selected vendors with username and password. The Reverse Auction bid is now configured successfully.
+11. Your vendors will get notification email.
+
+
+Steps to Manage Open Bids-
+
+1. Click on manage tab and click on manage open bids on the left side of dashboard.
+2. Enter your bid no. or subject name. User have the option to change bid details before the auction, but not editable if the auction is running.
+3. User can send resend password, add vendors during on going bidding, remove quotes in case vendor quoted wrong price, send reminder and         at the last to add vendor Pre-bid price or restrict the vendor.
+4. User can change or add new items before the auction but not editable once auction is running, but user can change the Bid start price or minimum decrement value, show start price ‘yes’ or ‘no’ or to show L1 price ‘yes’ or ‘no.
+
+
