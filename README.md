@@ -1,4 +1,4 @@
-# RAG Chat Application
+# AHAM - RAG Chat Application
 
 This repository contains the code for a Retrieval-Augmented Generation (RAG) Chatbot Application. The application leverages a combination of React, FAST API, ChromaDB, and Langchain to provide a seamless and interactive chat experience, augmented with knowledge retrieval capabilities.
 
