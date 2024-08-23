@@ -1,6 +1,5 @@
 langchain_openai
 langchain_core
-streamlit
 python-dotenv
 langchain_community
 langserve
@@ -22,3 +21,4 @@ ipykernel
 sentence_transformers
 langchain-openai
 langchain_chroma
+langchain

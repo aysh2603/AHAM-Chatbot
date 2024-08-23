@@ -39,7 +39,7 @@ const ChatbotFullScreen = () => {
     { label: 'Education', message: 'Tell me about Aayush\'s education.' },
     { label: 'Projects', message: 'What projects has Aayush worked on?' },
     { label: 'Skills', message: 'What skills does Aayush have?' },
-    { label: 'Work Experience', message: 'Share your experiences' },
+    { label: 'Work Experience', message: 'Share your internship experiences' },
     { label: 'Coding Profiles', message: 'Show me about Aayush\'s coding profiles?' },
     { label: 'Achievements', message: 'What are Aayush\'s achievements?' },
   ];
