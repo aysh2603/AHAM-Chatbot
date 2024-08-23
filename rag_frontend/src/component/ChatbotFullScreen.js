@@ -66,7 +66,7 @@ const ChatbotFullScreen = () => {
     const data = { input };
 
     try {
-      const response = await axios.post('http://127.0.0.1:8000/ask/', data, {
+      const response = await axios.post('https://aham-chatbot.onrender.com/ask/', data, {
         headers: {
           'Content-Type': 'application/json',
         },
@@ -96,7 +96,7 @@ const ChatbotFullScreen = () => {
 
     const data = { input: message };
 
-    axios.post('http://127.0.0.1:8000/ask/', data, {
+    axios.post('https://aham-chatbot.onrender.com/ask/', data, {
       headers: {
         'Content-Type': 'application/json',
       },
