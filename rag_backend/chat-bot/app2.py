@@ -56,9 +56,7 @@ def vector_embedding():
     embeddings = OpenAIEmbeddings()
     # text_loader_kwargs = {'autodetect_encoding': True}
     # loader = DirectoryLoader("./procurengine/", glob="./*.txt", loader_cls=TextLoader, loader_kwargs=text_loader_kwargs)
-    file_path = (
-        r".\knowledge_base\Aayush_Garg_CV_3.pdf"
-    )
+    file_path = "./knowledge_base/Aayush_Garg_CV_3.pdf"
     loader = PyPDFLoader(file_path)
     docs = loader.load()
 
